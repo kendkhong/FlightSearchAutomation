@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables file (often used to store secrets)
+.env
+
+# Build directories
+build/
+dist/
+
+
+

@@ -36,8 +36,9 @@ The goal of the project is basically automated the process of searching and sele
 3. Install dependencies
     ```bash
     npm install
-    npm install @cucumber/cucumber
+    npm install @playwright/test --save-dev
     npx playwright install
+    npm install @cucumber/cucumber
     ```
 
 ## Usage

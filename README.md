@@ -11,8 +11,6 @@ This is a Web Client UI automated test project using NodeJs Playwright framework
 The goal of the project is basically automated the process of searching and selecting a one-way flight on the American Airline website. The project used the latest as well as existing technologies to demonstrate an efficient and effective way to write a clean test code that can be reused. This project provided two independent approaches of designing and executing automated tests. The first approach uses the Page Object Model concept to encapsulate all the details of HTML elements into a class object, then a Mocha test file can interact with these class object files. The second aproach uses Behavior Driven Development to write test scenarios in a natural language using Gherkin language syntax. Cucumber framework generated steps definition where the code executed behind the scene, which bridges the communication between Gherkin test scenarios and actual test code implementation for test features described in the feature file. Then, the code in the steps definition file interacts with the class object files. 
 
 ## Installation
-    - To clone or fork the project follows this link: https://github.com/kendkhong/FlightSearchAutomation
-
 
 ### Prerequisites
 

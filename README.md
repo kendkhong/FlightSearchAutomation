@@ -1,4 +1,4 @@
-# The Flight Search Automation Project
+# The Flight Search Test Automation Project
 
 This is a Web Client UI automated test project using NodeJs Playwright framework includes testing framework such as mocha and cucumber. This project also introduced the concept of Behavior Driven Development (BDD) and Page Object Model (POM). My creating a readable and maintainable code approach has helped me to pick these technologies mentioned above for this project. 
 

@@ -12,7 +12,7 @@ The goal of the project is basically automated the process of searching and sele
 
 The first approach uses the Page Object Model concept to encapsulate all the details of HTML elements into a page object, then a Mocha test file can interact with these page object files. 
 
-The second aproach uses Behavior Driven Development to write test scenarios in a natural language using Gherkin language syntax. Cucumber framework generated steps definition where the code executed behind the scene, which bridges the communication between Gherkin test scenarios and actual test code implementation for test features described in the feature file. Then, the code in the steps definition file interacts with the class object files. 
+The second aproach uses Behavior Driven Development to write test scenarios in a natural language using Gherkin language syntax. Cucumber framework generated steps definition where the code executed behind the scene, which bridges the communication between Gherkin test scenarios and actual test code implementation for test features described in the feature file. Then, the code in the steps definition file interacts with the page object files. 
 
 ## Installation
 
